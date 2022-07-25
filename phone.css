@@ -15,14 +15,14 @@
 
 /* Home section */
 #home{
-    height: 370px;
+    height: 100vh;
     padding: 3px 68px;
 
 
 }
 
 #home::before{
-    height: 480px;    
+    height: 100vh;    
 
     
 }
