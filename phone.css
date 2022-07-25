@@ -1,0 +1,49 @@
+/* Navigation */
+#navbar {
+    flex-direction: column;
+}
+
+#navbar ul li a{
+    font-size: 1 rem;
+    padding: 0px 7px;
+    padding-bottom: 8px
+}
+
+
+
+    
+
+/* Home section */
+#home{
+    height: 370px;
+    padding: 3px 68px;
+
+
+}
+
+#home::before{
+    height: 480px;    
+
+    
+}
+#home p{
+    font-size: 13px;
+}
+
+
+
+
+
+/* contact us section */
+#contact-box form{
+    width: 80%;
+    
+}
+
+.h-primary{
+    font-size: 26px;
+
+}
+/* #rightitem{
+    display: flex;
+} */
